@@ -1,0 +1,1 @@
+#Ejercicios de Python. Analizador de texto. Pide una oración, usa un for para contar cuántas palabras terminan en un punto. Usa una tupla para los signos de puntuación.
